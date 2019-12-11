@@ -1,9 +1,12 @@
 # SoftwareShell
 Anthoer Resurce
 # 使用说明
-一、背景
+or
+## 一、背景
+
 在Memory测试过程中，需要使用大量的测试软件对其进行测试，以保证Memory的良品。在Windows下，每个测试软件都是单独操作测试，耗时耗力，因此，为了减少不必要的时间浪费以及人力成本，开发出具有自动监控测试软件的软体极为重要。
-二、使用环境
+## 二、使用环境
+
 Windows10、Windows7
 三、支持测试软件
 1、BurinTest V8.1
