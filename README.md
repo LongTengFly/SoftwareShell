@@ -1,7 +1,7 @@
 # SoftwareShell
 Anthoer Resurce
 
-[image](https://github.com/LongTengFly/SoftwareShell/blob/master/9B87B873-3B87-48e7-8E85-1012FCE9DB16.png)
+![image](https://github.com/LongTengFly/SoftwareShell/blob/master/9B87B873-3B87-48e7-8E85-1012FCE9DB16.png)
 
 # 使用说明
 
