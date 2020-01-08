@@ -7,6 +7,9 @@ V1.0.0
 ![image](https://github.com/LongTengFly/SoftwareShell/blob/master/9B87B873-3B87-48e7-8E85-1012FCE9DB16.png)
 
 V1.1.0
+
+适配BurninTest V9.0 Pro
+
 # 使用说明
 
 一、前因
