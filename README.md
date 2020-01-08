@@ -1,7 +1,11 @@
 # SoftwareShell
+
 Anthoer Resurce
+
 V1.0.0
+
 ![image](https://github.com/LongTengFly/SoftwareShell/blob/master/9B87B873-3B87-48e7-8E85-1012FCE9DB16.png)
+
 V1.1.0
 # 使用说明
 
@@ -14,18 +18,31 @@ V1.1.0
 Windows10、Windows7
 
 三、支持测试软件
+
  V1.0
+ 
 1、BurinTest V8.1
+
 2、3DMark V2
+
 3、StartMemTest  V1.0.1
+
 4、Sleeper V2.3
+
 5、rebooter V1.3
+
  V1.1
+ 
 1、BurinTest V9.0 Pro
+
 2、3DMark V2
+
 3、StartMemTest  V1.0.1
+
 4、Sleeper V2.3
+
 5、rebooter V1.3
+
 四、准备工作
 
 将Windows账户控制权限设置为最低，以达到自动开启需要管理员权限的测试软件（如BunrinTest），具体步骤如下。
